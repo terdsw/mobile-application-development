@@ -16,8 +16,8 @@ Pada Chapter ini kita akan melakukan instalasi [react native]. Pada latihan ini 
 
 ## Status Instalasi
 
-| Langkah-langkah                           | Status | Versi |
-| ----------------------------------------- | ------ | ----- |
+| Langkah-langkah                           | Status | Versi                                |
+| ----------------------------------------- | ------ | -----                                |
 | Instalasi Node                            | Done   |  v18.15.0                            |
 | Instalasi JDK                             | Done   |  11.0.18 2023-01-17 LTS              |
 | Android Studio                            | Done   |  Electric Eel | 2022.1.1 Patch 2     |
